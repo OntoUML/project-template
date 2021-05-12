@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+
+# Uncomment the line below and give a title to your project
+# title: Project Title
+
+# Uncomment the line below and give a brief description to your project
+# description: Project Description
+
+# Uncomment the lines below and list the folder whose markdown files should be ignored
+# exclude:
+#   - folder or file path
