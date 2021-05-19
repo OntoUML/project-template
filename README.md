@@ -77,12 +77,22 @@ Jekyll will build your site using not only markdown files in your repository, bu
 
 ```html
 <div>
-  <iframe src="https://youtu.be/1Bix44C1EzY" style="width: 100%; height: 400px;"></iframe>
+  <iframe style="width: 100%; height: 400px;"
+    src="https://www.youtube.com/embed/rKFOEt8ogLw"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen/>
 </div>
 ```
 
 <div>
-  <iframe src="https://youtu.be/1Bix44C1EzY" style="width: 100%; height: 400px;"></iframe>
+  <div>
+  <iframe style="width: 100%; height: 400px;"
+    src="https://www.youtube.com/embed/rKFOEt8ogLw"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen/>
 </div>
-
-
+</div>

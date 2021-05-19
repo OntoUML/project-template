@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 destination: ./docs
-layouts_dir: _layout
 exclude:
   - "./docs"
 #   - "<folder or file that you don't want to be part of your website>"
