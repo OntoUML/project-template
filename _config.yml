@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 destination: ./docs
 layouts_dir: _layout
-# exclude:
-#   - "./docs"
-#   - "**/node_modules"
+exclude:
+  - "./docs"
+#   - "<folder or file that you don't want to be part of your website>"
 # title: <Your Project's Title>
 # description: <Your Project's Description>
